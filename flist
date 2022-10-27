@@ -1,0 +1,15 @@
+branch_comp.v
+imm_gen.v
+alu.v
+instruction_memory.v
+data_memory.v
+pc_inc.v
+regfile.v
+control.v
+four_to_1_mux.v
+pc.v
+two_to_1_mux.v
+
+
+core.v
+core_test_updated.v
